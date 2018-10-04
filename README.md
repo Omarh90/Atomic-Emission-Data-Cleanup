@@ -8,4 +8,4 @@
 
 + To test functionality, copy/paste the sample data sets in the separate tabs into the highlighted yellow box in the PSL tab, and click the blue "DUP" button, followed by "LFM".
 
-+ For source code see: https://gist.github.com/Omarh90/0284990a623d61825b4f5f7814d1a3ab
++ Source code [here](https://gist.github.com/Omarh90/0284990a623d61825b4f5f7814d1a3ab).
